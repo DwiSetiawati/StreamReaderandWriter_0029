@@ -54,4 +54,5 @@ int main()
     // jika tidak ditemukan file maka akan menyimpan ini
     else
         cout << "Unable to open file";
+    return 0;
 }
